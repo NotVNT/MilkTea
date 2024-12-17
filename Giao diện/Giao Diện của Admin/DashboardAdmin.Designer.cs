@@ -292,7 +292,7 @@
             this.btnDonhang.Name = "btnDonhang";
             this.btnDonhang.Size = new System.Drawing.Size(217, 46);
             this.btnDonhang.TabIndex = 10;
-            this.btnDonhang.Text = "Đơn Hàng";
+            this.btnDonhang.Text = "Đơn Hàngasdada";
             this.btnDonhang.UseVisualStyleBackColor = true;
             // 
             // btnThongBao
