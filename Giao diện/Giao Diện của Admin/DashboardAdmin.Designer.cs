@@ -261,8 +261,9 @@
             this.btnQLTK.Name = "btnQLTK";
             this.btnQLTK.Size = new System.Drawing.Size(217, 46);
             this.btnQLTK.TabIndex = 8;
-            this.btnQLTK.Text = "        Quản Lý Tài Khoản";
+            this.btnQLTK.Text = "        Quản Lý Tài Khoảndasdsddasdd";
             this.btnQLTK.UseVisualStyleBackColor = true;
+            this.btnQLTK.Click += new System.EventHandler(this.btnQLTK_Click);
             // 
             // btnKho
             // 

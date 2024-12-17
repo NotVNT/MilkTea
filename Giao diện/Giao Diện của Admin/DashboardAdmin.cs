@@ -151,5 +151,10 @@ namespace OrderMillTeaProgram.Giao_diện_của_User
         {
             trasuaAdmin = null;
         }
+
+        private void btnQLTK_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
