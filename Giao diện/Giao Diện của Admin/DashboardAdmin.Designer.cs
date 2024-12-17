@@ -261,7 +261,7 @@
             this.btnQLTK.Name = "btnQLTK";
             this.btnQLTK.Size = new System.Drawing.Size(217, 46);
             this.btnQLTK.TabIndex = 8;
-            this.btnQLTK.Text = "        Quản Lý Tài Khoảndasdsddasdd";
+            this.btnQLTK.Text = "        Quản Lý Tài Khoản";
             this.btnQLTK.UseVisualStyleBackColor = true;
             this.btnQLTK.Click += new System.EventHandler(this.btnQLTK_Click);
             // 
@@ -277,7 +277,7 @@
             this.btnKho.Name = "btnKho";
             this.btnKho.Size = new System.Drawing.Size(217, 46);
             this.btnKho.TabIndex = 9;
-            this.btnKho.Text = "Khoasdadad";
+            this.btnKho.Text = "Kho";
             this.btnKho.UseVisualStyleBackColor = true;
             // 
             // btnDonhang
@@ -292,7 +292,7 @@
             this.btnDonhang.Name = "btnDonhang";
             this.btnDonhang.Size = new System.Drawing.Size(217, 46);
             this.btnDonhang.TabIndex = 10;
-            this.btnDonhang.Text = "Đơn Hàngasdada";
+            this.btnDonhang.Text = "Đơn Hàng";
             this.btnDonhang.UseVisualStyleBackColor = true;
             // 
             // btnThongBao
