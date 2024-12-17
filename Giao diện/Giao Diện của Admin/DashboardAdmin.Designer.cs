@@ -276,7 +276,7 @@
             this.btnKho.Name = "btnKho";
             this.btnKho.Size = new System.Drawing.Size(217, 46);
             this.btnKho.TabIndex = 9;
-            this.btnKho.Text = "Kho";
+            this.btnKho.Text = "Khoasdadad";
             this.btnKho.UseVisualStyleBackColor = true;
             // 
             // btnDonhang
