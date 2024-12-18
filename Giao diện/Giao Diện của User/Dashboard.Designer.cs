@@ -326,6 +326,7 @@
             this.button6.Text = "Nạp tiền";
             this.button6.UseVisualStyleBackColor = false;
             // 
+
             // guna2BorderlessForm1
             // 
             this.guna2BorderlessForm1.ContainerControl = this;
